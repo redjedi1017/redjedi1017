@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Derek Whaley 👋  
-🎯 Full Stack Developer | React & Python Enthusiast | Lifelong Learner  
+🎯 Full Stack Developer | Motivated by continuous learning and creative solutions | Passionate Problem-Solver
 
 ---
 
@@ -26,7 +26,8 @@ I love solving real-world problems with clean, maintainable code—and I’m alw
 
 ## 🌍 Social Networks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/derek-whaley-a076a0359/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/derek-whaley-a076a0359/)
+
 
 ---
 
