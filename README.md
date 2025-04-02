@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Derek Whaley 👋  
+🎯 Full Stack Developer | React & Python Enthusiast | Lifelong Learner  
 
-<!--
-**redjedi1017/redjedi1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack software developer passionate about building user-friendly, scalable web applications.  
+After completing an intensive program with 4Geeks Academy, I’ve gained hands-on experience with modern technologies including React, Flask, JavaScript, Python, SQL, and REST APIs.
+
+I love solving real-world problems with clean, maintainable code—and I’m always learning new ways to improve my craft. Whether I’m working on a solo project or collaborating with a team, I strive to deliver thoughtful, efficient, and reliable solutions.
+
+---
+
+### 🛠️ Focus Areas:
+- 🌐 Full-stack development with React, Flask, and SQL  
+- 🔐 Secure user authentication and API integration  
+- ⚙️ Clean code architecture and reusable components  
+- 📈 Building scalable, user-focused applications  
+- 🤝 Team collaboration in remote and fast-paced environments  
+
+---
+
+## 🌍 Social Networks
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/derek-whaley-a076a0359/))  
+
+---
+
+## 🧰 Tech Stack:
+
+### Languages and Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats:
+
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=redjedi1017&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redjedi1017&layout=compact&theme=tokyonight)
+
+---
+
+> "_The best error message is the one that never shows up._"
+— Thomas Fuchs
