@@ -52,7 +52,6 @@ I love solving real-world problems with clean, maintainable code—and I’m alw
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=redjedi1017&show_icons=true&theme=tokyonight" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redjedi1017&layout=compact&theme=tokyonight" />
 
 ---
