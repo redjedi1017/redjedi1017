@@ -48,6 +48,9 @@ I love solving real-world problems with clean, maintainable code—and I’m alw
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
+### Just for Fun
+<div align="center"> <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> <img src="https://img.shields.io/badge/xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> <img src="https://img.shields.io/badge/epic%20games-313131?style=for-the-badge&logo=epicgames&logoColor=white" /> <img src="https://img.shields.io/badge/battle.net-148EFF?style=for-the-badge&logo=battle.net&logoColor=white" /> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/unreal%20engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/ubisoft-A6A6A6?style=for-the-badge&logo=ubisoft&logoColor=black" /> <img src="https://img.shields.io/badge/ea-000000?style=for-the-badge&logo=ea&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/playstation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /> <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </div>
+
 ---
 
 ## 📊 GitHub Stats
